@@ -2,7 +2,7 @@
 This is where you can track issues, todos and other information about the Snoop Troop Minecraft SMP Server
 
 
-#How To Report Issues
+# How To Report Issues
 
 Issues here are used to manage lots of things on the server, from bugs to player reports. 
 
